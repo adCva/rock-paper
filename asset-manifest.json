@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rock-paper/static/css/main.328c19da.css",
+    "main.js": "/rock-paper/static/js/main.a9b5fd11.js",
+    "index.html": "/rock-paper/index.html",
+    "main.328c19da.css.map": "/rock-paper/static/css/main.328c19da.css.map",
+    "main.a9b5fd11.js.map": "/rock-paper/static/js/main.a9b5fd11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328c19da.css",
+    "static/js/main.a9b5fd11.js"
+  ]
+}
